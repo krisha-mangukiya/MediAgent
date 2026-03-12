@@ -1,11 +1,16 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel
 from dotenv import load_dotenv
+from sqlalchemy.orm import Session
 import os
 
 load_dotenv()
+
+from backend.database.database import create_tables, get_db
+
+create_tables()
 
 app = FastAPI(
     title=os.getenv("APP_NAME", "MediAgent"),
@@ -24,6 +29,17 @@ app.add_middleware(
 
 class MedicalQuery(BaseModel):
     question: str
+
+
+class PatientCreate(BaseModel):
+    name: str
+    age: int
+    gender: str
+    condition: str
+    medications: str
+    allergies: str
+    blood_pressure: str
+    notes: str = ""
 
 
 @app.get("/")
@@ -86,19 +102,61 @@ async def stream_with_rag_endpoint(query: MedicalQuery):
     )
 
 
-@app.post("/rag/ingest")
-async def ingest_document(file_path: str):
-    from backend.rag.document_loader import load_and_split
-    from backend.rag.vector_store import create_vector_store
-    chunks = load_and_split(file_path)
-    create_vector_store(chunks)
-    return {
-        "status": "success",
-        "message": f"Ingested {len(chunks)} chunks from {file_path}"
-    }
-
 @app.post("/agents/diagnose")
-async def run_agent_diagnosis(query: MedicalQuery, patient_context: str = ""):
+async def run_agent_diagnosis(
+    query: MedicalQuery,
+    patient_context: str = "",
+    db: Session = Depends(get_db)
+):
     from backend.agents.graph import run_mediagent
+    from backend.database.crud import save_diagnosis
     result = run_mediagent(query.question, patient_context)
+    save_diagnosis(
+        db=db,
+        question=result["question"],
+        patient_context=patient_context,
+        final_answer=result["final_answer"],
+        record_summary=result.get("record_summary", ""),
+        literature_summary=result.get("literature_summary", ""),
+        risk_alerts=result.get("risk_alerts", []),
+        sources=result.get("sources", [])
+    )
     return result
+
+
+@app.get("/patients")
+async def get_patients(db: Session = Depends(get_db)):
+    from backend.database.crud import get_all_patients
+    patients = get_all_patients(db)
+    return patients
+
+
+@app.post("/patients")
+async def create_patient_endpoint(patient: PatientCreate, db: Session = Depends(get_db)):
+    from backend.database.crud import create_patient
+    new_patient = create_patient(
+        db=db,
+        name=patient.name,
+        age=patient.age,
+        gender=patient.gender,
+        condition=patient.condition,
+        medications=patient.medications,
+        allergies=patient.allergies,
+        blood_pressure=patient.blood_pressure,
+        notes=patient.notes
+    )
+    return new_patient
+
+
+@app.get("/history")
+async def get_history(db: Session = Depends(get_db)):
+    from backend.database.crud import get_diagnosis_history
+    history = get_diagnosis_history(db)
+    return history
+
+
+@app.get("/documents")
+async def get_documents(db: Session = Depends(get_db)):
+    from backend.database.crud import get_all_documents
+    documents = get_all_documents(db)
+    return documents
