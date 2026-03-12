@@ -1,0 +1,100 @@
+CARDIOLOGY CLINICAL GUIDELINES 2024
+
+ACUTE MYOCARDIAL INFARCTION (AMI)
+
+DEFINITION:
+AMI is defined as myocardial cell death due to prolonged ischemia, characterized by elevated cardiac biomarkers with clinical evidence of ischemia.
+
+STEMI DIAGNOSIS:
+ST elevation > 1mm in 2 contiguous limb leads
+ST elevation > 2mm in 2 contiguous precordial leads
+New left bundle branch block (LBBB)
+Posterior MI: ST depression V1-V3 with dominant R wave
+
+NSTEMI DIAGNOSIS:
+Elevated troponin without ST elevation
+ST depression or T wave changes
+Symptoms of ischemia
+
+BIOMARKERS:
+Troponin I or T: Rises 3-6 hours, peaks 12-24 hours, normalizes 7-14 days
+CK-MB: Rises 4-6 hours, peaks 12-24 hours, normalizes 48-72 hours
+BNP/NT-proBNP: Elevated in heart failure
+
+STEMI MANAGEMENT:
+Primary PCI within 90 minutes of first medical contact (preferred)
+Fibrinolysis within 30 minutes if PCI not available within 120 minutes
+Aspirin 325mg immediately
+P2Y12 inhibitor (Ticagrelor 180mg or Clopidogrel 600mg)
+Anticoagulation with Heparin or Bivalirudin
+Beta-blocker within 24 hours if no contraindications
+ACE inhibitor or ARB within 24 hours for LVEF < 40%
+Statin therapy high-intensity (Atorvastatin 80mg)
+
+NSTEMI MANAGEMENT:
+Antiplatelet therapy: Aspirin + P2Y12 inhibitor
+Anticoagulation: Heparin, Fondaparinux, or Bivalirudin
+Early invasive strategy within 24 hours for high risk
+Beta-blocker, ACE inhibitor, statin therapy
+Nitroglycerin for ongoing chest pain
+
+HEART FAILURE
+
+CLASSIFICATION:
+HFrEF: EF < 40% (reduced ejection fraction)
+HFmrEF: EF 40-49% (mildly reduced)
+HFpEF: EF >= 50% (preserved)
+
+NYHA CLASSIFICATION:
+Class I: No symptoms with ordinary activity
+Class II: Slight limitation with ordinary activity
+Class III: Marked limitation, comfortable only at rest
+Class IV: Symptoms at rest
+
+HEART FAILURE WITH REDUCED EF TREATMENT:
+ACE inhibitor or ARB (Enalapril, Lisinopril, Valsartan)
+Beta-blocker (Carvedilol, Metoprolol succinate, Bisoprolol)
+Mineralocorticoid antagonist (Spironolactone, Eplerenone)
+SGLT2 inhibitor (Empagliflozin, Dapagliflozin)
+ARNI (Sacubitril/Valsartan) for persistent symptoms
+Loop diuretic (Furosemide) for fluid overload
+ICD for EF < 35% despite 3 months optimal therapy
+CRT for EF < 35% with LBBB and QRS > 150ms
+
+ATRIAL FIBRILLATION
+
+TYPES:
+Paroxysmal: Episodes terminate within 7 days
+Persistent: Episodes lasting > 7 days
+Long-standing persistent: > 12 months
+Permanent: Accepted as permanent rhythm
+
+STROKE RISK ASSESSMENT (CHA2DS2-VASc):
+Congestive heart failure (1 point)
+Hypertension (1 point)
+Age >= 75 years (2 points)
+Diabetes (1 point)
+Stroke/TIA history (2 points)
+Vascular disease (1 point)
+Age 65-74 years (1 point)
+Sex category female (1 point)
+Score >= 2 men or >= 3 women: Anticoagulation recommended
+
+ANTICOAGULATION:
+DOACs preferred over warfarin
+Apixaban 5mg twice daily
+Rivaroxaban 20mg daily
+Dabigatran 150mg twice daily
+Warfarin INR 2.0-3.0 if DOAC contraindicated
+
+RATE CONTROL:
+Target heart rate < 110 bpm at rest
+Beta-blockers (Metoprolol, Atenolol)
+Calcium channel blockers (Diltiazem, Verapamil)
+Digoxin for heart failure patients
+
+HYPERTROPHIC CARDIOMYOPATHY:
+Avoid dehydration and strenuous exercise
+Beta-blockers first line for symptoms
+Septal reduction therapy for refractory symptoms
+ICD for high risk sudden cardiac death

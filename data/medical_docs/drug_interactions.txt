@@ -1,0 +1,98 @@
+DRUG INTERACTIONS AND PHARMACOLOGY REFERENCE 2024
+
+COMMON DRUG INTERACTIONS
+
+CARDIOVASCULAR DRUGS:
+
+ACE Inhibitors (Lisinopril, Enalapril, Ramipril):
+Interaction with NSAIDs: Reduced antihypertensive effect, increased renal impairment risk
+Interaction with Potassium supplements: Risk of hyperkalemia
+Interaction with Lithium: Increased lithium toxicity
+Interaction with Aliskiren: Contraindicated in diabetes or renal impairment
+Contraindicated in: Pregnancy, bilateral renal artery stenosis, history of angioedema
+
+Beta-Blockers (Metoprolol, Atenolol, Carvedilol):
+Interaction with Verapamil/Diltiazem: Risk of complete heart block
+Interaction with Insulin/Sulfonylureas: Masks hypoglycemia symptoms
+Interaction with Clonidine: Rebound hypertension on withdrawal
+Contraindicated in: Severe asthma, decompensated heart failure, sick sinus syndrome
+
+Statins (Atorvastatin, Rosuvastatin, Simvastatin):
+Interaction with Amiodarone: Increased statin levels, myopathy risk
+Interaction with Cyclosporine: Increased statin toxicity
+Interaction with Clarithromycin: Increased rhabdomyolysis risk
+Simvastatin + Amlodipine: Maximum Simvastatin dose 20mg
+
+Warfarin:
+Interaction with Aspirin: Increased bleeding risk
+Interaction with NSAIDs: Increased bleeding risk
+Interaction with Amiodarone: Significantly increases INR
+Interaction with Antibiotics: Alters gut flora, changes INR
+Interaction with Vitamin K foods: Reduces anticoagulation effect
+Target INR: 2.0-3.0 for AF, 2.5-3.5 for mechanical valves
+
+DIABETES DRUGS:
+
+Metformin:
+Interaction with Contrast dye: Hold 48 hours before and after IV contrast
+Interaction with Alcohol: Increased lactic acidosis risk
+Interaction with ACE inhibitors: Rare risk of lactic acidosis
+Contraindicated: eGFR < 30 mL/min, liver failure, heart failure requiring hospitalization
+
+SGLT2 Inhibitors (Empagliflozin, Dapagliflozin):
+Interaction with Diuretics: Enhanced diuresis, dehydration risk
+Interaction with Insulin: Increased DKA risk if insulin dose reduced rapidly
+Side effects: UTI, genital mycotic infections, DKA risk
+Contraindicated: eGFR < 30, Type 1 diabetes
+
+GLP-1 Agonists (Semaglutide, Liraglutide):
+Interaction with Oral medications: Slows gastric emptying, reduces absorption
+Side effects: Nausea, vomiting, pancreatitis risk
+Contraindicated: Personal or family history of MTC or MEN2
+
+Sulfonylureas (Glipizide, Glimepiride):
+Interaction with Fluconazole: Increased hypoglycemia risk
+Interaction with Beta-blockers: Masks hypoglycemia symptoms
+Interaction with NSAIDs: Enhanced hypoglycemic effect
+Risk of weight gain and hypoglycemia
+
+ANTIBIOTICS:
+
+Fluoroquinolones (Ciprofloxacin, Levofloxacin):
+Interaction with Antacids/Iron: Reduces antibiotic absorption
+Interaction with Warfarin: Significantly increases INR
+Interaction with Antidiabetics: Risk of hypoglycemia or hyperglycemia
+Risk: QT prolongation, tendon rupture, C. difficile
+
+Macrolides (Clarithromycin, Azithromycin):
+Interaction with Statins: Increased myopathy risk
+Interaction with Warfarin: Increases INR
+Interaction with QT prolonging drugs: Additive QT prolongation risk
+
+PAIN MEDICATIONS:
+
+NSAIDs (Ibuprofen, Naproxen, Diclofenac):
+Interaction with ACE inhibitors/ARBs: Reduced antihypertensive effect, renal impairment
+Interaction with Warfarin: Increased bleeding risk
+Interaction with Aspirin: Reduced cardioprotective effect of aspirin
+Interaction with Lithium: Increased lithium toxicity
+Interaction with Corticosteroids: Increased GI bleeding risk
+Contraindicated: Active peptic ulcer, severe renal impairment, heart failure
+
+Opioids (Morphine, Oxycodone, Tramadol):
+Interaction with Benzodiazepines: Respiratory depression, death risk
+Interaction with MAOIs: Serotonin syndrome
+Interaction with CNS depressants: Additive sedation
+Tramadol + SSRIs: Serotonin syndrome risk
+
+HIGH RISK MEDICATIONS:
+
+QT Prolonging Drugs (avoid combination):
+Amiodarone, Sotalol, Haloperidol, Methadone, Azithromycin, Ciprofloxacin, Ondansetron
+Risk: Torsades de pointes, ventricular fibrillation
+
+Nephrotoxic Drugs (monitor renal function):
+NSAIDs, ACE inhibitors in renovascular disease, Aminoglycosides, Vancomycin, Contrast dye
+
+Hepatotoxic Drugs (monitor liver function):
+Statins, Methotrexate, Isoniazid, Valproate, Azathioprine

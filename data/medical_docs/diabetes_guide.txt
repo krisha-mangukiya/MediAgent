@@ -1,0 +1,74 @@
+DIABETES MELLITUS CLINICAL GUIDELINES 2024
+
+DEFINITION:
+Diabetes mellitus is a group of metabolic diseases characterized by hyperglycemia resulting from defects in insulin secretion, insulin action, or both.
+
+CLASSIFICATION:
+Type 1 Diabetes: Absolute insulin deficiency due to autoimmune destruction of beta cells
+Type 2 Diabetes: Progressive loss of insulin secretion with insulin resistance
+Gestational Diabetes: Diabetes diagnosed during pregnancy
+Prediabetes: Fasting glucose 100-125 mg/dL or HbA1c 5.7-6.4%
+
+DIAGNOSTIC CRITERIA:
+Fasting Plasma Glucose >= 126 mg/dL
+2-hour Plasma Glucose >= 200 mg/dL during OGTT
+HbA1c >= 6.5%
+Random Plasma Glucose >= 200 mg/dL with symptoms
+
+TREATMENT TARGETS:
+HbA1c < 7.0% for most adults
+HbA1c < 8.0% for elderly or high risk patients
+Fasting glucose 80-130 mg/dL
+Postprandial glucose < 180 mg/dL
+Blood pressure < 130/80 mmHg
+LDL cholesterol < 100 mg/dL
+
+FIRST LINE MEDICATIONS:
+1. Metformin 500-2000mg daily (first line for Type 2)
+2. GLP-1 agonists (Semaglutide, Liraglutide) for weight loss and cardiovascular benefit
+3. SGLT2 inhibitors (Empagliflozin, Dapagliflozin) for heart failure and kidney protection
+4. DPP-4 inhibitors (Sitagliptin, Saxagliptin) for low hypoglycemia risk
+5. Sulfonylureas (Glipizide, Glimepiride) for cost-effective glucose lowering
+6. Insulin therapy when oral agents are insufficient
+
+INSULIN TYPES:
+Rapid-acting: Lispro, Aspart, Glulisine (onset 15 min)
+Short-acting: Regular insulin (onset 30-60 min)
+Intermediate: NPH insulin (onset 2-4 hours)
+Long-acting: Glargine, Detemir, Degludec (onset 1-2 hours, 24hr duration)
+
+MONITORING:
+HbA1c every 3 months until stable then every 6 months
+Fasting glucose daily for insulin users
+Annual lipid panel
+Annual kidney function (creatinine, eGFR, urine albumin)
+Annual eye exam for diabetic retinopathy
+Annual foot examination for neuropathy and vascular disease
+Annual blood pressure measurement
+
+COMPLICATIONS AND SCREENING:
+Diabetic Nephropathy: Screen with urine albumin-to-creatinine ratio annually
+Diabetic Retinopathy: Annual dilated eye exam
+Diabetic Neuropathy: Annual 10g monofilament foot exam
+Cardiovascular Disease: High risk, use statin therapy
+Diabetic Foot: Inspect feet at every visit
+
+LIFESTYLE MODIFICATIONS:
+Medical nutrition therapy with carbohydrate counting
+150 minutes moderate aerobic exercise per week
+Resistance training 2-3 times per week
+Weight loss of 5-10% body weight if overweight
+Smoking cessation
+Limit alcohol to 1 drink per day for women, 2 for men
+
+HYPOGLYCEMIA MANAGEMENT:
+Mild: 15g fast-acting carbohydrates (glucose tablets, juice)
+Severe: Glucagon 1mg IM or SC, or IV dextrose
+Target glucose > 70 mg/dL
+Rule of 15: 15g carbs, check glucose after 15 minutes
+
+SPECIAL POPULATIONS:
+Elderly: Avoid tight control, target HbA1c 7.5-8.5%
+Pregnancy: Target HbA1c < 6.0%, use insulin only
+Kidney Disease: Avoid Metformin if eGFR < 30
+Heart Failure: Prefer SGLT2 inhibitors
