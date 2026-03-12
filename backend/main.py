@@ -96,3 +96,9 @@ async def ingest_document(file_path: str):
         "status": "success",
         "message": f"Ingested {len(chunks)} chunks from {file_path}"
     }
+
+@app.post("/agents/diagnose")
+async def run_agent_diagnosis(query: MedicalQuery, patient_context: str = ""):
+    from backend.agents.graph import run_mediagent
+    result = run_mediagent(query.question, patient_context)
+    return result
