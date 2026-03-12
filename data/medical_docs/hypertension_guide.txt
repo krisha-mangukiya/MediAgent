@@ -1,0 +1,47 @@
+HYPERTENSION CLINICAL GUIDELINES 2024
+
+DEFINITION:
+Hypertension is defined as systolic blood pressure >= 130 mmHg or diastolic blood pressure >= 80 mmHg based on the 2024 ACC/AHA guidelines.
+
+CLASSIFICATION:
+Normal: Systolic < 120 mmHg and Diastolic < 80 mmHg
+Elevated: Systolic 120-129 mmHg and Diastolic < 80 mmHg
+Stage 1 Hypertension: Systolic 130-139 mmHg or Diastolic 80-89 mmHg
+Stage 2 Hypertension: Systolic >= 140 mmHg or Diastolic >= 90 mmHg
+Hypertensive Crisis: Systolic > 180 mmHg and/or Diastolic > 120 mmHg
+
+FIRST LINE TREATMENT:
+1. Thiazide diuretics (e.g., Hydrochlorothiazide 25mg daily)
+2. ACE inhibitors (e.g., Lisinopril 10mg daily)
+3. Calcium channel blockers (e.g., Amlodipine 5mg daily)
+4. ARBs (e.g., Losartan 50mg daily)
+
+LIFESTYLE MODIFICATIONS:
+Reduce sodium intake to less than 2.3g per day
+DASH diet recommended
+Regular aerobic exercise 150 minutes per week
+Limit alcohol consumption
+Smoking cessation
+Weight reduction if BMI > 25
+
+MONITORING:
+Blood pressure should be checked every 3 months after starting treatment
+Annual kidney function tests (creatinine, eGFR)
+Annual ECG for left ventricular hypertrophy assessment
+Ophthalmology review annually for hypertensive retinopathy
+
+SPECIAL POPULATIONS:
+Diabetes: Target BP < 130/80 mmHg, ACE inhibitors preferred
+Chronic Kidney Disease: Target BP < 130/80 mmHg, ACE inhibitors or ARBs preferred
+Elderly (>65 years): Start with lower doses, target BP < 140/90 mmHg
+Pregnancy: Avoid ACE inhibitors and ARBs, use Methyldopa or Labetalol
+
+EMERGENCY MANAGEMENT:
+Hypertensive urgency (>180/120 without organ damage):
+Oral medications, reduce BP over 24-48 hours
+Amlodipine or Labetalol oral
+
+Hypertensive emergency (>180/120 with organ damage):
+IV medications required
+Nicardipine IV or Labetalol IV
+Reduce BP by maximum 25% in first hour
